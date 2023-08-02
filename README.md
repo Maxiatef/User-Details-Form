@@ -1,6 +1,7 @@
-# User-Details-Form
-=>MySQL-PHP <br>
-The User Details Form Project is a web application that allows users to fill out a form with their personal information, such as name, email, gender, and email subscription status. The project is built using HTML, CSS, SQL, PHP and serves as a simple example of form validation and data storage in a MySQL database.
+# User-Details-Form 
+- https://github.com/Maxiatef/User-Details-Form/assets/93007990/57e54014-4a99-4aa4-8444-92a278044126
+- MySQL-PHP <br>
+- The User Details Form Project is a web application that allows users to fill out a form with their personal information, such as name, email, gender, and email subscription status. The project is built using HTML, CSS, SQL, PHP and serves as a simple example of form validation and data storage in a MySQL database.
 
 ## Features:
 - User-Friendly Interface: The project provides a user-friendly interface where users can easily enter their details through input fields and select their gender and email subscription status using radio buttons and checkboxes.
